@@ -1,5 +1,5 @@
 # JavaScript Analyzer - Chrome Extension
-https://screenshot.png
+![Здесь пример работы](img.png)
 
 ## Описание
 JavaScript Analyzer - это расширение для Chrome, которое анализирует все JavaScript файлы на текущей странице, включая:
